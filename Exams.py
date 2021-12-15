@@ -3,6 +3,7 @@ from tkinter import messagebox
 from PIL import  ImageTk,Image
 import  pyodbc
 
+# BLUEPRINT OBJECT
 
 class JUSTLOGIN:
     def __init__(self,root):
